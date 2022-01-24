@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.ArrayList;
 
-public class Root{
+public class root{
 
     private int annoDiInizio;
     private Aula aula;
